@@ -1,4 +1,4 @@
-# Projeto_Python_Conta_Bancaria
+# Exercicio_Python_Conta_Bancaria
 
 Projeto elaborado para aprender sobre:
 Orientação a objetos com atributos, métodos e classes;
